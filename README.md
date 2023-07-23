@@ -1,10 +1,8 @@
-## My projects
-
 # Projects on github I'm working on
 
 - [KaNaPi64 - Linux distribution for x86_64 architecture](https://github.com/jdanecki/kanapi64)
 
-# Previous projects
+# Previous github projects
 
 - [KaNaPi - Linux distribution for x86/x86_64/arm architectures]( https://jdanecki.github.io/kanapi)
 - [FractalCL - Fractals with OpenCL acceleration](https://github.com/jdanecki/FractalCL)
