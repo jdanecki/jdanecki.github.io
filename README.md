@@ -18,4 +18,7 @@
 - [Intel(R) Graphics Compute Runtime for OpenCL(TM)](https://github.com/intel/compute-runtime )
 - [Testing fork of Intel(R) Graphics Compute Runtime for OpenCL(TM)](https://github.com/JacekDanecki/compute-runtime)
 
+## Links
+
+- [blog about punk/new-age C-60]( https://stilon-c60.blogspot.com)
 
